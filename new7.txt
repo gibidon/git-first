@@ -1,2 +1,3 @@
 new 7 added on local machine
-new7 changed on remote repo 2
+
+new 7 edited on local computer,resolved locally
